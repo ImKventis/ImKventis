@@ -1,4 +1,4 @@
 
 Im Kventis.
 
-Read me on discord Kventis_#6232
+Find me on discord Kventis_#6232
