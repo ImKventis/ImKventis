@@ -9,6 +9,11 @@
 - Kotlin/Java
 - Html/Css
 
+## Learning Languages 🤠
+
+- C#
+- Rust
+
 ## Contact 🥥
 
 Discord: Kventis_#6232
