@@ -1,4 +1,15 @@
 
-Im Kventis.
+# Im Kventis
 
-Find me on discord Kventis_#6232
+## Languages 💻
+
+- Javascript/Typescript
+- Python
+- C/C++
+- Kotlin/Java
+- Html/Css
+
+## Contact 🥥
+
+Discord: Kventis_#6232
+Email: Kventis.gg@gmail.com
