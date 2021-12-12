@@ -12,4 +12,5 @@
 ## Contact 🥥
 
 Discord: Kventis_#6232
+
 Email: Kventis.gg@gmail.com
