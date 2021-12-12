@@ -1,6 +1,8 @@
 
 # Im Kventis
 
+I develop for fun in my freetime and wanting to study computer engineering in the future
+
 ## Languages 💻
 
 - Javascript/Typescript
