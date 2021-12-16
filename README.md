@@ -3,6 +3,8 @@
 
 I develop for fun in my freetime and wanting to study computer engineering in the future
 
+I prefer doing server applications and CLI applications rather than GUI applications because Im bad at desgin
+
 ## Languages 💻
 
 - Javascript/Typescript
