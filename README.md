@@ -7,12 +7,12 @@ I prefer doing server applications and CLI applications rather than GUI applicat
 
 ## Languages 💻
 
+<img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
 - Javascript/Typescript
 - Python
 - C/C++
 - Kotlin/Java
 - Html/Css
-- <img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
 
 ## Learning Languages 🤠
 
