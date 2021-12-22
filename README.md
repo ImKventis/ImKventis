@@ -12,6 +12,7 @@ I prefer doing server applications and CLI applications rather than GUI applicat
 - C/C++
 - Kotlin/Java
 - Html/Css
+- <img src="https://imgur.com/d00S59c.gif" align="left" style="float: left;">
 
 ## Learning Languages 🤠
 
@@ -24,4 +25,3 @@ Discord: Kventis_#6232
 
 Email: Kventis.gg@gmail.com
 
-<img src="https://imgur.com/d00S59c.gif" align="center">
