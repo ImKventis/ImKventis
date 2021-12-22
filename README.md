@@ -12,7 +12,7 @@ I prefer doing server applications and CLI applications rather than GUI applicat
 - C/C++
 - Kotlin/Java
 - Html/Css
-- <img src="https://imgur.com/d00S59c.gif" align="left" style="float: left;">
+- <img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
 
 ## Learning Languages 🤠
 
