@@ -18,7 +18,7 @@ I prefer doing server applications and CLI applications rather than GUI applicat
 
 ## Learning Languages 🤠
 
-- C#
+- Rust
 - Go
 
 ## Contact 🥥
