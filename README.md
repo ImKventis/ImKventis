@@ -1,29 +1,30 @@
 
 # Im Kventis
 
-I develop for fun in my freetime and wanting to study computer engineering in the future
+I develop for fun in my freetime and wanting to study computer science in the future
 
 I prefer doing server applications and CLI applications rather than GUI applications because im bad at desgin
 
-## Languages 💻
-
+## I know these languages 💻
+Ordered from Most Knowledge to least
 <img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
-
 
 - Javascript/Typescript
 - Python
-- C/C++
+- Rust (want to understand more)
 - Kotlin/Java
+- C/C++
 - Html/Css
 
-## Learning Languages 🤠
-
+## favourite Languages 🤠
+Oredred the same 
 - Rust
-- Go
+- Python
+- C++
 
 ## Contact 🥥
 
 Discord: Kventis_#6232
 
-Email: Kventis.gg@gmail.com
+Email: kventis.gg@gmail.com
 
