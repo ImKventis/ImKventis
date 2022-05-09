@@ -18,7 +18,7 @@ Ordered from Most Knowledge to least
 
 ## Favorite Gits
 
-- To be complete
+- They are private lmao
 
 ## Contact 🥥
 
