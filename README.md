@@ -23,5 +23,6 @@ Ordered from Most Knowledge to least
 ## Contact 🥥
 
 Discord: Kventis_#6232
+
 Email: kventis.gg@gmail.com
 
