@@ -1,8 +1,8 @@
 
 # Im Kventis
 
-I develop for fun in my freetime and wanting to study computer science in the future
-I prefer programming non-GUI applications but I do have fun creating sub mods for [https://github.com/Monika-After-Story/MonikaModDev]
+I develop for fun in my freetime and I am studying computer science
+I prefer programming non-GUI applications however I do have fun creating sub mods for [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev)
 
 
 ## I program with these languages
