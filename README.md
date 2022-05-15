@@ -6,9 +6,7 @@ I prefer programming non-GUI applications however I do have fun creating sub mod
 
 
 ## I program with these languages
-Ordered from Most Knowledge to least
 <img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
-
 - Python
 - Javascript/Typescript
 - Rust
