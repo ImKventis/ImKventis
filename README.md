@@ -9,13 +9,13 @@ I prefer programming non-GUI applications however I do have fun creating sub mod
 <img src="https://imgur.com/d00S59c.gif" align="right" style="float: right;">
 
 - Python
-- 
+
 - Javascript/Typescript
-- 
+
 - Rust
-- 
+
 - Kotlin/Java
-- 
+
 - C/C++
 
 ## Favorite Gits
