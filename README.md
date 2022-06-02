@@ -6,7 +6,7 @@ I prefer programming non-GUI applications however I do have fun creating sub mod
 
 I mostly focus on Go, C and Python projects but I also know how to program in Typescript and trying my best to learn Rust.
 
-I LOVE jailbreaking/hacking old consoles.
+I LOVE tinkering with hardware and software found in older consoles
 
 I use Arch Linux with a custom kernel based on the "linux-ck" kernel.
 
