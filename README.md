@@ -10,7 +10,8 @@ I use Arch Linux with a custom kernel based on the "linux-ck" kernel.
 
 ## Favorite Gits
 
-- They are private lmao
+- [MONRPC](https://github.com/ImKventis/MONRPC)
+- Rest are private lmao
 
 ## Contact 🥥
 
