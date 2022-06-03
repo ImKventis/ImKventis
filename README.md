@@ -17,7 +17,7 @@ I use Arch Linux with a custom kernel based on the "linux-ck" kernel.
 
 ## Contact 🥥
 
-Discord: Kventis_#6232
+Discord: KvenAltis#6716
 
 Email: kventis.gg@gmail.com
 
