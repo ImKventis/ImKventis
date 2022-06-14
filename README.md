@@ -12,7 +12,7 @@ I use Arch Linux with a custom kernel based on the "linux-ck" kernel.
 
 ## Favorite Gits
 
-- [MONRPC](https://github.com/ImKventis/MONRPC)
+- [MAS_RPC](https://github.com/ImKventis/MONRPC) - Maintained by [my-otter-self](https://github.com/my-otter-self)
 - Rest are private lmao
 
 ## Contact 🥥
