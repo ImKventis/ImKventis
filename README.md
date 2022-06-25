@@ -4,7 +4,7 @@
 I'm studing computer programming and I develop for fun whenever I can unless I'm gaming of course. 
 I prefer programming non-GUI applications however I have had some fun helping make sub mods for [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev) with Ren'Py(Python 2.7)
 
-I mostly focus on Go, C and Python projects but I am trying my best to learn Rust.
+I mostly focus on C and Python projects but I am trying my best to learn GoLang more.
 
 I LOVE tinkering with hardware and software found in older consoles
 
