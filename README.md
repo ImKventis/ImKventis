@@ -8,7 +8,7 @@ I mostly focus on C and Python projects but I am trying my best to learn GoLang 
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use Arch Linux with a custom kernel based on the "linux-ck" kernel.
+I use Gentoo Linux as my main OS
 
 ## Favorite Gits
 
