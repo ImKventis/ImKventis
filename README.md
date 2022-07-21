@@ -1,6 +1,8 @@
 
 # Hello!
 
+<img src="https://imgur.com/IQQnGTv.gif" style="text-align: right;" alt="Animated Profile Picture">
+
 I develop for fun whenever I can unless I'm gaming of course. 
 I prefer programming non-GUI applications 
 
