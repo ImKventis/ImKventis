@@ -1,7 +1,7 @@
 
 # Hello!
 
-<img src="https://imgur.com/IQQnGTv.gif" style="float: right; margin: 0 10px 0 0;" alt="Animated Profile Picture">
+<img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
 I develop for fun whenever I can unless I'm gaming of course. 
 I prefer programming non-GUI applications 
