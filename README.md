@@ -8,7 +8,7 @@ I mostly focus on C and Python projects but I am trying my best to learn GoLang 
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use Gentoo Linux as my main OS
+I use Gentoo Linux as my main OS since — 29/06/2022
 
 ## Favorite Gits
 
