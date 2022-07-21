@@ -1,6 +1,7 @@
 
 # Hello!
 
+<img src="https://imgur.com/IQQnGTv.gif" style="float: right; margin: 0 10px 0 0;" alt="Animated Profile Picture">
 
 I develop for fun whenever I can unless I'm gaming of course. 
 I prefer programming non-GUI applications 
@@ -11,7 +12,6 @@ I LOVE tinkering with hardware and software found in older consoles
 
 I use Gentoo Linux as my main OS since — 29/06/2022
 
-<img src="https://imgur.com/IQQnGTv.gif" style="float: right;" alt="Animated Profile Picture">
 
 ## Favorite Gits
 
