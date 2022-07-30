@@ -4,7 +4,9 @@
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
 I develop for fun whenever I can unless I'm gaming of course. 
-I prefer programming non-GUI applications 
+I prefer programming non-GUI applications
+
+Currently working on a large private project. Low github activity
 
 I mostly focus on C and Python projects but I am trying my best to learn GoLang more.
 
