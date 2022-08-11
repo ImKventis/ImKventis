@@ -8,35 +8,20 @@ I prefer programming non-GUI applications
 
 Currently working on a large private project. Low github activity
 
-I mostly focus on C and Python projects but I am trying my best to learn GoLang more.
+I have a bad habbit of leaving repos private so dont expect to find anything amazing here
 
 I LOVE tinkering with hardware and software found in older consoles
 
 I use Gentoo Linux as my main OS since — 29/06/2022
 
-## Setup
+![My stats](https://github-readme-stats.vercel.app/api?username=imkventis&show_icons=true&title_color=ffed69&icon_color=ffed69&text_color=fff&bg_color=151515)
 
-Desktop
-  - Ryzen 7 5800x
-  - 32GB of rando ram
-  - 2TB SSD space
-  - 5 TB HDD space
-  - Nvidia RTX 3070
-  - Gentoo, no initramfs and custom kernel (5.18.15-gentoo-kvt)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Laptop
-  - Intel i5-10300H
-  - 16GB of rando ram
-  - 500GB SSD space
-  - Nvidia GTX 1660 ti
-  - Encrypted home directory
-  - Gentoo, no initramfs and custom kernel (5.18.15-gentoo-kvt-mobile)
-
-## Favorite Gits
-
-- Rest are private lmao
-
-## Contact 🥥
+## Contact
 
 Discord: Kventis_#6232
 
