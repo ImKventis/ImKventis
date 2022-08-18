@@ -6,6 +6,8 @@
 I develop for fun whenever I can unless I'm gaming of course. 
 I prefer programming non-GUI applications
 
+Just watched Your Name and it was g8
+
 Currently working on a large private project. Low github activity
 
 I have a bad habbit of leaving repos private so dont expect to find anything amazing here
