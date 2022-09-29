@@ -14,7 +14,7 @@ I have a bad habbit of leaving repos private so dont expect to find anything ama
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use Linux as my main OS since — 20/08/2017
+I use GNU/Linux as my main OS since — 20/08/2017
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=imkventis&show_icons=true&title_color=ffed69&icon_color=ffed69&text_color=fff&bg_color=151515)
 
