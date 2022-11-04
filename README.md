@@ -14,7 +14,7 @@ I have a bad habbit of leaving repos private so dont expect to find anything ama
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use GNU/Linux as my main OS since — 20/08/2017
+I use GNU/Linux as my main OS since — 20/08/2016
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
