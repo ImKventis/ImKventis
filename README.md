@@ -3,12 +3,10 @@
 
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
-I develop for fun whenever I can unless I'm gaming of course. 
+I develop for fun whenever I can. 
 I prefer programming non-GUI applications
 
-Just watched Your Name and it was gr8
-
-Currently working on a large private project. Low github activity
+I dont often upload my projects to github but I am slowly moving them out of my projects folder onto github
 
 I have a bad habbit of leaving repos private so dont expect to find anything amazing here
 
@@ -16,15 +14,21 @@ I LOVE tinkering with hardware and software found in older consoles
 
 I use GNU/Linux as my main OS since — 20/08/2016
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+Mostly using these:
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c)
+I sometimes use these:
+![Rust](https://img.shields.io/badge/Rust-brown.svg?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/Go-grey.svg?style=flat&logo=Go)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=flat&logo=kotlin)
 
 ## Contact
 
 Discord: Kventis_#6232
 
+Other Discord: Kvenaltis#2151
+
 Email: kventis.gg@gmail.com
+
+[GPG/PGP Key](https://pastebin.com/raw/Z1v1HTXB)
 
