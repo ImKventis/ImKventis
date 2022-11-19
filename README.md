@@ -16,8 +16,8 @@ I use GNU/Linux as my main OS since — 20/08/2016
 
 Mostly using these:
 
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 
 I sometimes use these:
 
