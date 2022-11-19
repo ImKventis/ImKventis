@@ -22,7 +22,7 @@ Mostly using these:
 I sometimes use these:
 
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/Go-grey.svg?style=flat&logo=Go)
+![Go](https://img.shields.io/badge/Go-orange.svg?style=flat&logo=Go)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=flat&logo=kotlin)
 
 ## Contact
