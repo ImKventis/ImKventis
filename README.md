@@ -12,7 +12,7 @@ I have a bad habbit of leaving repos private so dont expect to find anything ama
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use GNU/Linux as my main OS since — 20/08/2016
+I use GNU/Linux as my main OS since — 20/08/2016  <img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width=15px/>
 
 Mostly using these:
 
@@ -21,10 +21,10 @@ Mostly using these:
 
 I sometimes use these:
 
-![Rust](https://img.shields.io/badge/Rust-brown.svg?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/Go-grey.svg?style=flat&logo=Go)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=flat&logo=kotlin)
- <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=12px/>
+<img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=15px/>
+<img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=15px />
+<img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=15px/>
+<img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=15px/>
 
 ## Contact
 
