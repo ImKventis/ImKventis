@@ -24,6 +24,7 @@ I sometimes use these:
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/Go-grey.svg?style=flat&logo=Go)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=flat&logo=kotlin)
+ <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=12px/>
 
 ## Contact
 
