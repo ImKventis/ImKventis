@@ -3,14 +3,11 @@
 
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
-I develop for fun whenever I can. 
-I prefer programming non-GUI applications
+I develop for fun whenever I can however I prefer programming non-GUI applications.
 
-I dont often upload my projects to github but I am slowly moving them out of my projects folder onto github
+I dont often upload my projects to github but I am slowly moving them out of my projects folder onto github but I still have a bad habit of leaving repos private so dont expect to find anything amazing here. 
 
-I have a bad habbit of leaving repos private so dont expect to find anything amazing here
-
-I LOVE tinkering with hardware and software found in older consoles
+I LOVE fucking around with embeded systems and often create my own
 
 I use GNU/Linux <img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width=16px/> as my main OS since — 20/08/2016 
 
