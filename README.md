@@ -12,7 +12,7 @@ I have a bad habbit of leaving repos private so dont expect to find anything ama
 
 I LOVE tinkering with hardware and software found in older consoles
 
-I use GNU/Linux <img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width=20px/> as my main OS since — 20/08/2016 
+I use GNU/Linux <img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width=16px/> as my main OS since — 20/08/2016 
 
 Mostly using these:
 
