@@ -9,7 +9,7 @@ I dont often upload my projects to github but I am slowly moving them out of my 
 
 I LOVE fucking around with embeded systems and often create my own
 
-I use GNU/Linux <img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width=16px/> as my main OS since — 20/08/2016 
+I use GNU/Linux <img alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width=16px/> as my main OS since — 20/08/2016 
 
 Mostly using these:
 
