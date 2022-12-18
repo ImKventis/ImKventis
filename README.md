@@ -1,5 +1,5 @@
 
-# Hello!
+# Konnichiwa!
 
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
@@ -18,6 +18,8 @@ Mostly using these:
 I sometimes use these:
 
 <img alt="Rust" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=20px/><img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=20px /><img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=20px/><img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=20px/>
+
+I am trying to learn to speak other languages but currently I can only speak English
 
 ## Contact
 
