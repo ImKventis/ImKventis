@@ -29,5 +29,6 @@ Other Discord: Kvenaltis#2151
 
 Email: kventis.gg@gmail.com
 
-[GPG/PGP Key](https://github.com/imkventis.gpg)
-[SSH Key](https://github.com/imkventis.keys)
+#### Keys
+[GPG/PGP](https://github.com/imkventis.gpg)
+[SSH](https://github.com/imkventis.keys)
