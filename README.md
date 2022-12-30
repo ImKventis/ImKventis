@@ -3,7 +3,7 @@
 
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
-I develop for fun whenever I can however I prefer programming non-GUI applications.
+I develop for fun whenever I can however I prefer programming non-GUI applications as creating logic is way more fun.
 
 I dont often upload my projects to github but I am slowly moving them out of my projects folder onto github but I still have a bad habit of leaving repos private so dont expect to find anything amazing here. 
 
