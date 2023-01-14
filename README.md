@@ -3,7 +3,7 @@
 
 <img align="right" src="https://i.imgur.com/IQQnGTv.gif">
 
-I develop for fun whenever I can however I prefer programming non-GUI applications as creating logic is way more fun. I use GNU/Linux as my main OS since 20/08/2016 and currently running Fedora 37 KDE  <img alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width=16px/>
+I like developing back-end logic and messing around with networking, not the biggest GUI fan. I use GNU/Linux as my main OS since 20/08/2016 and currently running Fedora 37 KDE  <img alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width=16px/>
 
 ## Contact
 
@@ -11,7 +11,6 @@ Discord: Kventis_#6232
 
 Email: kventis.gg@protonmail.com
 
-### Keys
 [GPG/PGP](https://kventis.me/pgp.pub)
 [SSH](https://kventis.me/ssh.pub)
 
