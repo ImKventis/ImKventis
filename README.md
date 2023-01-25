@@ -9,7 +9,7 @@ I like developing back-end logic and messing around with networking, not the big
 
 Discord: Kventis_#6232
 
-Email: kventis.gg@protonmail.com
+Email: kvtsrs@protonmail.com
 
 [GPG/PGP](https://kventis.me/pgp.pub)
 [SSH](https://kventis.me/ssh.pub)
