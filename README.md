@@ -1,9 +1,9 @@
 
-# Konnichiwa!
+# Kventis
 
-<img align="right" src="https://i.imgur.com/IQQnGTv.gif">
+I like developing back-end logic and messing around with networking, not the biggest GUI fan. I use GNU/Linux as my main OS (Fedora 37 KDE) however I have a Windows VM if needed.
 
-I like developing back-end logic and messing around with networking, not the biggest GUI fan. I use GNU/Linux as my main OS (Fedora 37 KDE  <img alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width=16px/>) however I have a Windows VM and low-performance image installed if I need it.
+Contact me if you want to work together on an interesting project
 
 ## Contact
 
