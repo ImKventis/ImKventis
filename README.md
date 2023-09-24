@@ -7,9 +7,7 @@ Contact me if you want to work together on an interesting project
 
 ## Contact
 
-Discord: Kventis_#6232
-
-Email: kvtsrs@protonmail.com
+Discord: kventis_
 
 [GPG/PGP](https://github.com/imkventis.gpg)
 [SSH](https://github.com/imkventis.keys)
