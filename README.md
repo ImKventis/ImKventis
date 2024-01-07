@@ -9,7 +9,7 @@ Contact me if you want to work together on an interesting project
 
 Discord: kventis_
 
-[GPG/PGP](https://github.com/imkventis.gpg)
+[GPG/PGP](https://pastebin.com/raw/TyFhgfQa)
 [SSH](https://github.com/imkventis.keys)
 
  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=25px /><img alt="CPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=25px /><img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=20px />
