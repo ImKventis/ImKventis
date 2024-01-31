@@ -8,6 +8,7 @@ Contact me if you want to work together on an interesting project
 ## Contact
 
 Discord: kventis_
+EMail: me@kventis.com
 
 [GPG/PGP](https://pastebin.com/raw/TyFhgfQa)
 [SSH](https://github.com/imkventis.keys)
