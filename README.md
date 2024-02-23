@@ -1,9 +1,7 @@
 
 # Kventis
 
-I like developing back-end logic and messing around with networking. I use GNU/Linux as my main OS (Gentoo x86-64) however I have a Windows VM if needed.
-
-Contact me if you want to work together on an interesting project
+I'm alright at programming, that's about it.
 
 ## Contact
 
