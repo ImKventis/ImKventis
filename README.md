@@ -7,6 +7,7 @@ I'm alright at programming, that's about it.
 
 Discord: kventis_
 
-EMail: kventis.gg@gmail.com
+EMail: me@kventis.com
 
 [SSH](https://github.com/imkventis.keys)
+[GPG](https://nnya.moe/gpg/kventis)
