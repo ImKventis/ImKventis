@@ -10,4 +10,4 @@ Discord: kventis_
 EMail: me@kventis.com
 
 [SSH](https://github.com/imkventis.keys)
-[GPG](https://nnya.moe/gpg/kventis)
+[GPG](https://kventis.com/gpg/kventis)
